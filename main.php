@@ -15,5 +15,9 @@
   <header>
   </header>
 
+  <footer>
+    <div id="footer_i">&copy; <?php print(date("Y")); ?> LV</div>
+  </footer>
+
   </body>
 </html>
