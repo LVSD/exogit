@@ -13,6 +13,8 @@
   <body>
 
   <header>
+    <h1>Main title</h1>
+    <h2>Secondary title</h2>
   </header>
 
   <footer>
